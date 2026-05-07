@@ -1,6 +1,6 @@
 import React from 'react'
 
-const DarkModeToggle = () => {
+const DarkModeToggle = ({ darkMode, onToggle }) => {
   // TODO: Implement dark mode toggle logic
 
   return (
